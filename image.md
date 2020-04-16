@@ -2,14 +2,14 @@
 
 ### Images 
 
-![](images/moviesCollection.PNG)
+![](images/moviescollection.PNG)
 ##### fig1a. Movies inserted into myMovies collection 
 
 ![](images/moviesCollection2.PNG)
 ##### fig1b. Movies inserted into myMovies collection contd
 
 
-![](images/firstDocumentInCollection.PNG)
+![](images/firstDocInCollection.PNG)
 ##### fig2. first document in the collection gotten with findOne
 
 
